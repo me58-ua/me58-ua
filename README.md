@@ -104,7 +104,7 @@ Gained hands-on exposure to the IT infrastructure of a major port operator — n
 | 🇲🇦 Arabic | Native |
 | 🇫🇷 French | Fluent |
 | 🇬🇧 English | Fluent |
-| 🇪🇸 Spanish | Fluent |
+| 🇪🇸 Spanish | intermediate |
 
 ---
 
